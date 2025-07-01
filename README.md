@@ -1,5 +1,4 @@
-# Soufiane Masmoud  
-**Senior iOS Developer**  
+# Senior iOS Developer
 📍 Casablanca  
 soufiane.masmoud@gmail.com
 🌐 [soufiane.masmoud.com](https://soufiane.masmoud.com)
